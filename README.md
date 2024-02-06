@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Introduction
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Gym application made using React 18 and APIs from [jttps://rapidapi.com](rapidapi.com)
+
+# installing dependancies
+Run `npm install --legacy-peer-deps` to install dependancies
 
 ## Available Scripts
 
