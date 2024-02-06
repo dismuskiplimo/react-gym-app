@@ -1,6 +1,6 @@
 # Introduction
 
-Gym application made using React 18 and APIs from [jttps://rapidapi.com](rapidapi.com)
+Gym application made using React 18 and APIs from [https://rapidapi.com](https://rapidapi.com)
 
 # installing dependancies
 Run `npm install --legacy-peer-deps` to install dependancies
