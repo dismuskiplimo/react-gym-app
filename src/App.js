@@ -1,4 +1,8 @@
-import React from 'react'
+import React from 'react';
+import {Route, Routes} from 'react-router-dom';
+import {Box} from '@mui/material';
+
+import "./App.css";
 
 function App() {
   return (
@@ -6,4 +10,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
